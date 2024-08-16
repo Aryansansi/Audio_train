@@ -86,7 +86,3 @@ pip install pandas numpy matplotlib seaborn librosa scikit-learn joblib
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-This README provides an overview of your project, its structure, and instructions for running the code. Let me know if you need any changes!
